@@ -1,0 +1,47 @@
+package com.flipkart.utility;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.Properties;
+
+import org.apache.log4j.Logger;
+
+public class SConfiguration {
+	
+	public static String IE_browse;
+	public static String FF_browse;
+	public static String Chrome_browser;
+	public static String reportLocation;
+	public static String testCaesSheetLocation;
+	public static String ScreenShots;
+	public static String logerLocation;
+    private static Properties prop;
+    public static Logger logs= Logger.getLogger(SConfiguration.class);
+    
+	public static void intilizeProjectConfigProprty () {
+	
+		prop = new Properties();
+		
+		try {
+			prop.load(new FileInputStream(System.getProperty("user.dir").concat("src\\resource\\reports\\configurationFile.properties")));
+		
+		logs.info("your Configuration file is loaded");
+		
+		
+		
+		
+		} catch (FileNotFoundException e) {
+			
+			logs.error("Your Configuration file is not found " +e.getMessage());
+			
+		
+		} catch (Exception e) {
+			
+		}
+		
+	
+	}
+	
+	
+}

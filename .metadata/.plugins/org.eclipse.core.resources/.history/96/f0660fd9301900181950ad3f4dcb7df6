@@ -1,0 +1,8 @@
+package com.flipkart.utility;
+
+public class Steps {
+	private String stepId;
+	private StepsDetails Steps; 
+	
+
+}

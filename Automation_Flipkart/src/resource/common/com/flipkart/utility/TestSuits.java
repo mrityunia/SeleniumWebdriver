@@ -1,0 +1,22 @@
+package com.flipkart.utility;
+
+import java.util.List;
+
+public class TestSuits {
+	
+	private String testSuits;
+	public String getTestSuits() {
+		return testSuits;
+	}
+	public void setTestSuits(String testSuits) {
+		this.testSuits = testSuits;
+	}
+	public List<TestCases> getTestcases() {
+		return testcases;
+	}
+	public void setTestcases(List<TestCases> testcases) {
+		this.testcases = testcases;
+	}
+	private List<TestCases> testcases;
+
+}

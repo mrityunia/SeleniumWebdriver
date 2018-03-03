@@ -1,0 +1,9 @@
+package com.flipkart.utility;
+
+public class TestCases {
+	private String stepDesc;
+	private String keyword;
+	private String expectedResult;
+	private List<String> parameters;
+
+}

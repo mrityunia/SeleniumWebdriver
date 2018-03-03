@@ -1,0 +1,24 @@
+package com.flipkart.utility;
+
+import java.util.Properties;
+
+public class SConfiguration {
+	
+	public static String IE_browse;
+	public static String FF_browse;
+	public static String Chrome_browser;
+	public static String reportLocation;
+	public static String testCaesSheetLocation;
+	public static String ScreenShots;
+	public static String logerLocation;
+private Properties prop;
+	
+	public static void intilizeProjectConfigProprty () {
+	
+		prop = new Properties();
+		
+	
+	}
+	
+	
+}

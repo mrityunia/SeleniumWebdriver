@@ -1,0 +1,12 @@
+package com.flipkart.utility;
+
+public class StepsDetails {
+	private String stepDescl;
+	private String keyword;
+	private String expectedResult;
+	private List<String> parameters;
+	
+	
+
+
+}

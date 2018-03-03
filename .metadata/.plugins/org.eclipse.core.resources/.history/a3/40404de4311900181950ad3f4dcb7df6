@@ -1,0 +1,10 @@
+package com.flipkart.utility;
+
+public class TestSuits {
+	
+	private String testSuits
+	private List<TestCases> testcases;
+
+
+
+}

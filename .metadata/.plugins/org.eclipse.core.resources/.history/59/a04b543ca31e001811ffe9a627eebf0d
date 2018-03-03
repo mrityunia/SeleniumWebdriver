@@ -1,0 +1,18 @@
+package com.flipkart.utility;
+
+public class TestClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		SConfiguration sc = new SConfiguration();
+		
+		sc.intilizeProjectConfigProprty();
+		
+		System.out.println("1" +sc.Chrome_browser);
+		
+		
+
+	}
+
+}

@@ -1,0 +1,19 @@
+package com.flipkart.utility;
+
+import org.apache.log4j.Logger;
+
+public class DbConnection {
+	
+	private String portNumber;
+		private String ipAddrss;
+		private String userId;
+		private String password;
+		
+		   public static Logger logs= Logger.getLogger(DbConnection.class);
+		
+		public void connectToDatabase() {
+			
+
+		}
+
+}

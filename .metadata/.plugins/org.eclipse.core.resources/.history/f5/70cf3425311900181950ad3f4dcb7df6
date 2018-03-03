@@ -1,0 +1,36 @@
+package com.flipkart.utility;
+
+public class StepsDetails {
+	private String stepDescl;
+	public String getStepDescl() {
+		return stepDescl;
+	}
+	public void setStepDescl(String stepDescl) {
+		this.stepDescl = stepDescl;
+	}
+	public String getKeyword() {
+		return keyword;
+	}
+	public void setKeyword(String keyword) {
+		this.keyword = keyword;
+	}
+	public String getExpectedResult() {
+		return expectedResult;
+	}
+	public void setExpectedResult(String expectedResult) {
+		this.expectedResult = expectedResult;
+	}
+	public List<String> getParameters() {
+		return parameters;
+	}
+	public void setParameters(List<String> parameters) {
+		this.parameters = parameters;
+	}
+	private String keyword;
+	private String expectedResult;
+	private List<String> parameters;
+	
+	
+
+
+}

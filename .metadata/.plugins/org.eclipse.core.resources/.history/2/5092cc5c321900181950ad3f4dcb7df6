@@ -1,0 +1,11 @@
+package com.flipkart.utility;
+
+public class DbConnection {
+	
+	Private string portNumber:
+		Private String ipAddrss
+		Private String userId;
+		Provate String password;
+
+
+}

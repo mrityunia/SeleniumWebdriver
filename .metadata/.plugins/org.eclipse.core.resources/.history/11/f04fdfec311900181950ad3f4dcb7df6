@@ -1,0 +1,12 @@
+package com.flipkart.utility;
+
+import java.util.List;
+
+public class TestSuits {
+	
+	private String testSuits;
+	private List<TestCases> testcases;
+
+
+
+}
