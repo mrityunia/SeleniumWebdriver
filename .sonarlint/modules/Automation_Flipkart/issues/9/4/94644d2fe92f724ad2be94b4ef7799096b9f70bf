@@ -1,0 +1,33 @@
+
+isquid:S2209"5Change this instance-reference to a static reference.(˜²ƒ¬8«±ĞÒ,HÿRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(øø¿8¤ ÎÒ,HñRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ€»ãøÿÿÿÿ8¤ ÎÒ,HòRMAJORZ
+CODE_SMELL
+nsquid:S2209"5Change this instance-reference to a static reference.(æ‘Æáıÿÿÿÿ8¤ ÎÒ,HôRMAJORZ
+CODE_SMELL
+nsquid:S2209"5Change this instance-reference to a static reference.(Õ€»ãøÿÿÿÿ8¤ ÎÒ,HóRMAJORZ
+CODE_SMELL
+isquid:S2209"5Change this instance-reference to a static reference.(øø¿8èÏÈÒ,HæRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(±¦¢ã8èÏÈÒ,HåRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ‘Æáıÿÿÿÿ8«±ĞÒ,HıRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜²ƒ¬8«±ĞÒ,HşRMAJORZ
+CODE_SMELL
+isquid:S2209"5Change this instance-reference to a static reference.(±¦¢ã8ºÇÒ,HàRMAJORZ
+CODE_SMELL
+asquid:S2440	".Remove this instantiation of "SConfiguration".(£åªH8ñáÃÒ,HÛRMAJORZ
+CODE_SMELL
+nsquid:S2209"5Change this instance-reference to a static reference.(Îà´éøÿÿÿÿ8«±ĞÒ,H€RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Îà´éøÿÿÿÿ8ºÇÒ,HßRMAJORZ
+CODE_SMELL

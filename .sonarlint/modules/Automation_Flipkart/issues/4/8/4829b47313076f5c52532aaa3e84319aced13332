@@ -1,4 +1,4 @@
 
-œ"squid:ClassVariableVisibilityCheck"PMake Logs a static final constant or non-public and provide accessors if needed.(Å‹ÌãùÿÿÿÿH³RMINORZVULNERABILITY
-‚squid:S00116"ORename this field "Logs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å‹ÌãùÿÿÿÿH´RMINORZ
+œ"squid:ClassVariableVisibilityCheck"PMake Logs a static final constant or non-public and provide accessors if needed.(Å‹ÌãùÿÿÿÿH¶RMINORZVULNERABILITY
+‚squid:S00116"ORename this field "Logs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å‹ÌãùÿÿÿÿH·RMINORZ
 CODE_SMELL

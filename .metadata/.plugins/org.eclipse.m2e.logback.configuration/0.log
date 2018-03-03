@@ -766,3 +766,6 @@
 2018-03-03 11:37:18,469 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\selenium\Aut_New\Automation_Flipkart\src\main\resources
 2018-03-03 11:37:18,469 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-03-03 11:37:18,469 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\selenium\Aut_New\Automation_Flipkart\src\test\resources
+2018-03-03 11:45:57,174 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@6ff6b6e7{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2018-03-03 11:45:57,175 [Stop Help Server] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2018-03-03 11:45:57,419 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@d670afd{/help,null,UNAVAILABLE}
